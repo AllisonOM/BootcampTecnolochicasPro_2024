@@ -1,0 +1,32 @@
+body{
+    background: rgb(54,54,54);
+    background: linear-gradient(90deg, rgba(54,54,54,0.9458158263305322) 0%, rgba(34,68,148,1) 0%, rgba(10,140,232,0.9962359943977591) 100%);
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+}
+
+.perritoPerfil{
+    width: 300px;
+    border-radius: 20px;
+    opacity: 0.5;
+    border: double;
+}
+
+.perritoFrente{
+    width: 200px;
+    border-radius: 100px;
+    border: dashed;
+}
+
+.imagenes{
+    text-align: center;
+}
+
+.cuidados{
+    background-image: url("https://img.freepik.com/vector-premium/patron-perros-esbozados_23-2147514776.jpg");
+    opacity: 0.8;
+    font-size: large;
+    color: #384252;
+    background-color: rgba(0,0,0,0.1);
+    background-blend-mode: multiply;
+}
